@@ -4,12 +4,12 @@ import { getMessaging, getToken } from "firebase/messaging";
 
 // Configuración de Firebase
 const firebaseConfig = {
-  apiKey: "AIzaSyB2om7qZN28pyLTPlgtTF0c7MlwEZ7I8AI",
+  apiKey: "AIzaSXXXXXXXXXXXXXX",
   authDomain: "goupromo-eb491.firebaseapp.com",
   projectId: "goupromo-eb491",
   storageBucket: "goupromo-eb491.firebasestorage.app",
-  messagingSenderId: "294976465249",
-  appId: "1:294976465249:android:e8365d3515a1ef8a9c7d20"
+  messagingSenderId: "29XXXXXXXXXX",
+  appId: "1:294976465249:android:XXXXXXXXXXXXXXXXXX"
 };
 
 // Inicializa Firebase
