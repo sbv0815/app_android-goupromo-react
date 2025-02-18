@@ -1,0 +1,5 @@
+include ':app'
+include ':capacitor-android'
+include ':capacitor-cordova-android-plugins'
+rootProject.name = "goupromo"
+apply from: 'capacitor.settings.gradle'

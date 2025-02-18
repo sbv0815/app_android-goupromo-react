@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "294976465249",
+    "project_id": "goupromo-eb491",
+    "storage_bucket": "goupromo-eb491.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:294976465249:android:e8365d3515a1ef8a9c7d20",
+        "android_client_info": {
+          "package_name": "com.goupromo.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyABSLpg-Hsv_2SEsJpD1ARWpxy8yqFBmY0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

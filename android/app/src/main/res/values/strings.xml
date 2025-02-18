@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">goupromo</string>
+    <string name="title_activity_main">goupromo</string>
+    <string name="package_name">com.goupromo.app</string>
+    <string name="custom_url_scheme">com.goupromo.app</string>
+</resources>

@@ -1,0 +1,7 @@
+{
+  "name": "goupromo-react",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react-vite"
+}

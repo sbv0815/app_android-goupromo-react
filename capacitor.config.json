@@ -1,0 +1,6 @@
+{
+  "appId": "com.goupromo.app",
+  "appName": "goupromo",
+  "webDir": "dist",
+  "bundledWebRuntime": false
+}
