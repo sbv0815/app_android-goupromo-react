@@ -1,2 +1,14 @@
-/build/*
-!/build/.npmkeep
+# Ignorar dependencias de Node.js
+node_modules/
+dist/
+
+# Ignorar archivos de Capacitor
+android/.gradle/
+android/build/
+ios/Pods/
+ios/build/
+capacitor.config.json
+
+# Ignorar credenciales
+private/
+google-services.json
