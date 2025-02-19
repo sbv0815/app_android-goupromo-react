@@ -19,7 +19,7 @@ const messaging = getMessaging(app);
 // Obtener el token FCM
 export const getFirebaseToken = async () => {
   try {
-    const token = await getToken(messaging, { vapidKey: "CsaXfvdDhqrmGkHGrF3pdsjcfum84iaUYC9j8GqYQUs" });
+    const token = await getToken(messaging, { vapidKey: "C" });
     if (token) {
       console.log("✅ Token FCM obtenido:", token);
       return token;
