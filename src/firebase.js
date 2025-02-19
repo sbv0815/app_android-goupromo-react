@@ -7,7 +7,7 @@ const firebaseConfig = {
   apiKey: "AIzXXXXXXXXXXXXXX",
   authDomain: "g.firebaseapp.com",
   projectId: "goupromo-ebXXX",
-  storageBucket: "g-eb491.firebasestorage.app",
+  storageBucket: "g-.",
   messagingSenderId: "29XXXXXXXXXXX",
   appId: "1:294976465249:android:eXXXXXXXXXXX"
 };
