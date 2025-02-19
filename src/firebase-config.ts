@@ -5,9 +5,9 @@ import { getMessaging, Messaging, getToken as firebaseGetToken } from "firebase/
 
 const firebaseConfig = {
   apiKey: "AIz",
-  authDomain: "goupromo-eb491.firebasestorage.app",
+  authDomain: "go",
   projectId: "goupromo-eb491",
-  storageBucket: "goupromo.appspot.com",
+  storageBucket: "go",
   messagingSenderId: "294",
   appId: "1:294976465249:android:e83"
 };
